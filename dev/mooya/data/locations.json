@@ -1,0 +1,42 @@
+[
+    {
+        "id": "sweden",
+        "name": "Sweden",
+        "latitude": 60.128161,
+        "longitude": 18.643501,
+        "imageName": "marker_sweden",
+        "color": "white",
+        "size": 0.05,
+        "pulse": true
+    },
+    {
+        "id": "japan",
+        "name": "Japan",
+        "latitude": 36.204824,
+        "longitude": 138.252924,
+        "imageName": "marker_japan",
+        "color": "blue",
+        "size": 0.05,
+        "pulse": false
+    },
+    {
+        "id": "usa",
+        "name": "USA",
+        "latitude": 37.09024,
+        "longitude": -95.712891,
+        "imageName": "marker_usa",
+        "color": "red",
+        "size": 0.05,
+        "pulse": true
+    },
+    {
+        "id": "serbia",
+        "name": "Serbia",
+        "latitude": 44.016521,
+        "longitude": 21.005859,
+        "imageName": "marker_serbia",
+        "color": "red",
+        "size": 0.05,
+        "pulse": true
+    }
+]
