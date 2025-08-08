@@ -1,6 +1,6 @@
 [
     {
-        "id": "sweden",
+        "id": "1",
         "name": "Sweden",
         "latitude": 60.128161,
         "longitude": 18.643501,
@@ -10,7 +10,7 @@
         "pulse": true
     },
     {
-        "id": "japan",
+        "id": "2",
         "name": "Japan",
         "latitude": 36.204824,
         "longitude": 138.252924,
@@ -20,7 +20,7 @@
         "pulse": false
     },
     {
-        "id": "usa",
+        "id": "3",
         "name": "USA",
         "latitude": 37.09024,
         "longitude": -95.712891,
@@ -30,7 +30,7 @@
         "pulse": true
     },
     {
-        "id": "serbia",
+        "id": "4",
         "name": "Serbia",
         "latitude": 44.016521,
         "longitude": 21.005859,
